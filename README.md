@@ -6,7 +6,7 @@ Make sensitive websites safe to visit
 
 EscapeEscape is quite simple. Simply include [main.js](Javascript/main.js) on any page you need it on. 
 
-With jsDelivr: `<script src="https://cdn.jsdelivr.net/gh/ellymeskin/escapeescape@latest/Javascript/main.js"></script>`
+With jsDelivr: `<script src="https://cdn.jsdelivr.net/gh/ellygaytor/escapeescape@latest/Javascript/main.js"></script>`
 
 EscapeEscape defines the `escape()` function, which can be called using a button, to make its functionality available on mobile devices. 
 
